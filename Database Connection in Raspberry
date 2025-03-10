@@ -7,7 +7,7 @@ DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4  # Change if using a different GPIO pin
 TEMP_THRESHOLD = 30  # Temperature threshold in Celsius
 
-# PostgreSQL connection details (update as per your setup)
+
 DB_CONFIG = {
     "dbname": "dht11_db",
     "user": "your_user",
