@@ -12,7 +12,7 @@ DB_CONFIG = {
     "dbname": "dht11_db",
     "user": "your_user",
     "password": "your_password",
-    "host": "localhost",  # Change if using a remote DB
+    "host": "localhost",  
     "port": "5432",
 }
 
