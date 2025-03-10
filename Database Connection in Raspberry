@@ -40,4 +40,4 @@ while True:
             print(f"Temperature {temperature}°C ")
     else:
         print("Failed to retrieve data from sensor")
-    time.sleep(10)  # Fetch data every 10 seconds
+    time.sleep(10)
