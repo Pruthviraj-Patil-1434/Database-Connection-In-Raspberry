@@ -5,7 +5,7 @@ import time
 # Sensor settings
 DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4  # Change if using a different GPIO pin
-TEMP_THRESHOLD = 30  # Temperature threshold in Celsius
+TEMP_THRESHOLD = 30  
 
 
 DB_CONFIG = {
